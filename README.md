@@ -22,7 +22,6 @@ cd backend
 npm install
 Create a .env file inside the backend/ folder:
 PORT=5000
-MONGO_URI=your-mongodb-url
 JWT_SECRET=your-secret-key
 Run backend server:
 npm start
